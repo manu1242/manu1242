@@ -39,7 +39,9 @@
 ---
 
 ## 📈 GitHub Activity Graph
-[![Manohar's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manu1242&theme=react-dark&hide_border=true)](https://github.com/manu1242)
+
+[![Manohar's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manu1242&theme=tokyo-night&area=true&hide_border=true&custom_title=Last%202%20Months%20Activity)](https://github.com/manu1242)
+
 
 ---
 
